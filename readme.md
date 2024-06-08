@@ -15,6 +15,4 @@ create_page method returns url for a page.</br>
 ```CMake
 add_subdirectory(Library relative directory path)
 target_link_libraries(YourProject telegraph_api)
-
-
 ``` 
